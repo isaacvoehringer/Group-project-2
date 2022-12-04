@@ -52,6 +52,9 @@ consult with instructor (submission of own questions)
 features, arichtecture, project board, finish planning
 reviewing planning-1vs2 people reviewing, prevention of bugs, check pull requests
 
+working through initial project set-up and pull request procedure 
+
+
 
 
 
