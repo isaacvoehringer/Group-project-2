@@ -52,6 +52,8 @@ consult with instructor (submission of own questions)
 features, arichtecture, project board, finish planning
 reviewing planning-1vs2 people reviewing, prevention of bugs, check pull requests
 
+initial react set up and merging pull requests to main branch
+
 
 
 
